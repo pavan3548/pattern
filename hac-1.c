@@ -1,3 +1,4 @@
+******pavan ******
 #include<stdio.h>
 int sockMerchant(int n, int *ar) {
     int i=0,j=0,count=0,k=-1,l=-1;
